@@ -1,6 +1,6 @@
 {
   "name": "joi-validation-strategy",
-  "version": "0.3.41",
+  "version": "0.3.42",
   "description": "Joi validation strategy for react-validation-mixin",
   "main": "./lib/joiValidationStrategy.js",
   "files": [
